@@ -1,1 +1,1 @@
-# GST-calculator-app
+A GST Calculator Desktop Application Using Java.
